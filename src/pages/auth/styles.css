@@ -15,10 +15,6 @@
     flex-direction: column;
     align-items: center;
 
-    p {
-      padding-bottom: 1rem;
-    }
-
     .inputWrapper {
       width: 250px;
       display: flex;

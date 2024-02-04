@@ -39,7 +39,6 @@ export const Auth = () => {
   return (
     <div className="auth">
       <form onSubmit={singIn}>
-        <p>Entrar</p>
         <div className="inputWrapper">
           <label htmlFor="email">Email</label>
           <input
