@@ -39,7 +39,7 @@ export const AuthDetails = () => {
           <button onClick={userSingOut}>Sing Out</button>
         </>
       ) : (
-        <p>Sing Out</p>
+        <h2>Sing Out</h2>
       )}
     </div>
   );

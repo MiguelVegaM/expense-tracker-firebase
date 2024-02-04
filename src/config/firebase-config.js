@@ -25,3 +25,8 @@ export const db = getFirestore(app);
 // firebase login
 //firebase init
 //firebase deploy
+
+// To keep deploying into hosting
+//npm run build
+//git add. git commit git push
+//firebase deploy
